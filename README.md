@@ -12,3 +12,8 @@ This is a simple resume webpage designed using HTML and CSS.
 
 ![Resume Page Screenshot](https://github.com/reezmahanan/resume/blob/main/Screenshot%202025-01-15%20122128.png)
 
+## Getting Started
+
+1. Clone this repository to your local machine:
+2. Open `index.html` in your browser to view the resume page.
+
