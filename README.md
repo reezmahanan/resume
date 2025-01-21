@@ -10,5 +10,5 @@ This is a simple resume webpage designed using HTML and CSS.
 
 ## Screenshot
 
-![Resume Page Screenshot](screenshot.png)
+![Resume Page Screenshot](Screenshot 2025-01-15 122128.png)
 
