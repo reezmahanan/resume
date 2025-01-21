@@ -14,6 +14,6 @@ This is a simple resume webpage designed using HTML and CSS.
 
 ## Getting Started
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine:(https://github.com/reezmahanan/resume.git)
 2. Open `index.html` in your browser to view the resume page.
 
